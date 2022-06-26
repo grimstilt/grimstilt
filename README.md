@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @grimstilt
+- 👋 Hi, I’m Srinath
 - 👀 I’m interested in Fullstack development and Machine Learning
 - 🌱 I’m currently learning above-mentioned technologies
-- 💞️ I’m looking to collaborate on python-based projects
+- 💞️ I’m looking to collaborate on python or Go based projects
 - 📫 How to reach me - here!
 
 <!---
